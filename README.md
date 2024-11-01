@@ -6,24 +6,38 @@
 I am cyber security bachelor student @ Innopolis University, also work here as a Middle CyberSec specialist for over a year. 
 Key professional interest for now is IT infrastructures, and ways to make them secure and reliable. Repos you might see bellow are mostly my practice with technologies or University assignments. 
 
----
-### Contacts
-
-* LinkedIn: `dpttk`
-* telegram: `dpttk`
-* email: `i@dpttk.ru`
+* cv: https://dpttk.ru/ivan-platonov.pdf
 
 ---
 ### Stack
-
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" /><img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" /><img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white"/><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+[![My Skills](https://skillicons.dev/icons?i=bash,azure,ansible,terraform,k8s,docker,linux,python,gitlab,github,git,jenkins)](https://skillicons.dev)
 
 ... Or, to be more specific:
 * Linux
-* SOC tools (XDR, SIEM, WAF, IDS)
-* Some of offensive (too many lite tools to list)
+	* All servers I worked on were on linux
+	  Use as a main system for 2 years
+	  OS course in Uni
+	  * you can see it in repos
+* SOC tools
+	* XDR
+	* IDS
+	* SIEM
+	* WAF
+* Offensive tools 
+	* too many lite tools to list them all
 * Docker
-* Ansible
-* CI/CD
+	* Every day use
+	* you can see it in repos
 * Scripting with python, bash
-* K8s, Terraform - books & little of practise
+	* Every day use
+	* you can see it in repos
+* Ansible
+	* As a cool declarative tool 
+	* you can see it in repos
+* CI/CD
+	* Had a practice, not really often
+	* you can see it in repos
+* K8s 
+	* books & little of practise
+* Terraform 
+	* books & little of practise
