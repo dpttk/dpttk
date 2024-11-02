@@ -11,7 +11,7 @@ Key professional interest for now is IT infrastructures, and ways to make them s
 
 ---
 ### Stack
-[![My Skills](https://skillicons.dev/icons?i=bash,ansible,k8s,docker,linux,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,ansible,k8s,docker,linux,python)]()
 
 ... Or, to be more specific:
 * Linux
