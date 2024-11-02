@@ -7,6 +7,7 @@ I am cyber security bachelor student @ Innopolis University, also work here as a
 Key professional interest for now is IT infrastructures, and ways to make them secure and reliable. Repos you might see bellow are mostly my practice with technologies or University assignments. 
 
 * cv: https://dpttk.ru/ivan-platonov.pdf
+* резюме: https://dpttk.ru/ivan-platonov-ru.pdf
 
 ---
 ### Stack
